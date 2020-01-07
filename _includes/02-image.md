@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [image of a copper square](https://upload.wikimedia.org/wikipedia/commons/f/fc/Redhead_close_up.jpg)
