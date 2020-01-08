@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* :snowflake: more sensitive to temperature changes
+* :persevere: higher pain tolerance
+* :sunglasses: make vitamin D more easily 
