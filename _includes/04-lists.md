@@ -1,3 +1,4 @@
-* :snowflake: more sensitive to temperature changes
-* :persevere: higher pain tolerance
-* :sunglasses: make vitamin D more easily 
+#### Redheads:
+* are more sensitive to temperature changes :snowflake: 
+* have higher pain tolerance :persevere: 
+* make vitamin D more easily :sunglasses:
